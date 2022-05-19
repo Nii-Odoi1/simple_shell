@@ -91,10 +91,5 @@ $
 ---
 
 ## Authors
-<<<<<<< HEAD
 * **Monicah Odipo** - [MonahDipsy](https://github.com/MonahDipsy)
 * **John Mathai** - [johngithinji-cs](https://github.com/johngithinji-cs)
-=======
-* **Nii Tetteh Odoi** - [Nii-Odoi1](https://github.com/Nii-Odoi1)
-* **Amankwah Agyenim George** - [George-Amankwah-Agyenim](https://github.com/George-Amankwah-Agyenim)
->>>>>>> 8cb026a93e50d37c2a378ec0f7316e41c527ccd5
