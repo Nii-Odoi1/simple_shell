@@ -109,4 +109,4 @@ File|Description
 
 ## Authors
 * **Nii Tetteh Odoi** - [Nii-Odoi1](https://github.com/Nii-Odoi1)
-* **George Amankwah Agyenim** - [George-Amankwah-Agyenim](https://github.com/George-Amankwah-Agyenim)
+* **Amankwah Agyenim George** - [George-Amankwah-Agyenim](https://github.com/George-Amankwah-Agyenim)
