@@ -9,7 +9,7 @@ In this project we are tasked with creating our own simple UNIX command interpre
 ## Instructions
 
 * Compiling the program:
-`gcc -Wall -Werror -Wextra -pedantic -std=gnu89 *.c -o hsh`
+`gcc -Wall -Werror -Wextra -pedantic *.c -o hsh`
 
 * Interactive mode:
 ```
@@ -38,28 +38,11 @@ $
 ---
 
 
-## Files
 
-File|Description
----|---
-[main.c](./main.c)|entry point for shell
-[shell.c](./shell.c)|executes the shell
-[shell.h](./shell.h)|header
-[builtins.c](./builtins.c)|built-in functions
-[helpers.c](./helpers.c)|helper functions
-[extraneous.c](./extraneous.c)|more helper functions
-[_getenv.c](./_getenv.c)|gets inputted env
-[search_cwd.c](./search_cwd.c)|gets current working dir
-[find_path.c](./find_path.c)|finds PATH
-[bridge.c](./bridge.c)|checks if builtin or not
-[execute.c](./execute.c)|executes builtin or binary
-[man_1_simple_shell](./man_1_simple_shell)|man page
-
----
 
 ## Project Requirements
-- All your files will be compiled on Ubuntu 20.04 LTS
-- Your C programs and functions will be compiled with gcc, using the options `-Wall -Werror -Wextra -pedantic -std=gnu89`
+- All your files will be compiled on Ubuntu 14.04 LTS
+- Your C programs and functions will be compiled with gcc 4.8.4 using the flags `-Wall -Werror -Wextra and -pedantic`
 - All your files should end with a new line
 - A README.md file, at the root of the folder of the project is mandatory
 - Your code should use the Betty style. It will be checked using [betty-style.pl](https://github.com/holbertonschool/Betty/blob/master/betty-style.pl) and [betty-doc.pl](https://github.com/holbertonschool/Betty/blob/master/betty-doc.pl)
@@ -108,5 +91,5 @@ File|Description
 ---
 
 ## Authors
-* **Nii Tetteh Odoi** - [Nii-Odoi1](https://github.com/Nii-Odoi1)
-* **George Amankwah Agyenim** - [George-Amankwah-Agyenim](https://github.com/George-Amankwah-Agyenim)
+* **Monicah Odipo** - [MonahDipsy](https://github.com/MonahDipsy)
+* **John Mathai** - [johngithinji-cs](https://github.com/johngithinji-cs)
